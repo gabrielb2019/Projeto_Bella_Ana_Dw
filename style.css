@@ -1,0 +1,48 @@
+header {
+    background-color: #c5c5b2;
+    padding: 18px;
+  }
+
+  body {
+    width: 1000px;
+    background-color: #d2d2c1;
+    background-image: url("fundo.png");
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  nav a {
+    color: #4b566a;
+    text-decoration: none;
+    padding: 5px;
+  }
+
+  section {
+    background-color: #e8e8d9;
+    padding: 10px;
+  }
+
+
+
+  img {
+    border: 10px solid #c3c3ae;
+    border-style: solid;
+    margin: 0 auto;
+    display: block;
+    padding: 10px;
+  }
+
+
+h1 {
+    font-size: 25px;
+    color: black;
+    text-align: left;
+  }
+
+  p {
+    text-align: justify;
+    line-height: 1.2cm;
+    text-indent: 1cm;
+  }
